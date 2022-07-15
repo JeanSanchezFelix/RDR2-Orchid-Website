@@ -1,0 +1,152 @@
+html {
+
+}
+
+p {
+  color: black;
+}
+
+h1, h2, h3, h4 {
+  color: black;
+}
+
+ul, li {
+  color: black;
+}
+
+
+hr {
+    display: flex;
+    justify-content: center;
+  
+}
+
+.Twitter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+footer{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+
+.IUC{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.IUCN {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid black;
+
+}
+
+.Mini{
+  margin-left: auto;
+  display: block;
+  border: px solid black;  
+}
+
+
+#Index {
+    display:flex;
+    justify-content: center;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  
+}
+
+
+.Border{
+  margin: 2px;
+}
+
+
+#Navigation {
+  display: flex;
+  column-gap: 250px;
+  justify-content: center
+}
+
+
+.Options {
+  display: flex;
+  width: 190px;
+  padding: 5px;
+  margin: 1px;
+  justify-content: center;
+  color: #7c0b0b;
+}
+
+
+
+
+
+
+
+
+
+article{
+  flex: 2;
+  overflow-y: auto;
+
+  margin: 0 auto;
+  background-color
+ 
+ 
+  
+}
+
+h1, h2, h3, h4 {
+  color: #7c0b0b; 
+}
+
+
+
+
+
+
+
+.A{
+  flex: ;
+  overflow-y;
+  width: px;
+  margin: px;
+  background-color:   #ffffff  ;
+  border: px solid black;  
+  background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="36" height="72" viewBox="0 0 36 72"%3E%3Cg fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+
+
+aside {
+  flex: 0.5;
+  overflow-y: auto;
+  width: 6000px;
+  margin: 0 auto;
+  background-color: #b40a0a;
+  padding: 20px 20px 20px;
+  border: 5px solid black;
+
+}
