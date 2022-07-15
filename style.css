@@ -10,12 +10,14 @@ h1, h2, h3, h4 {
   color: black;
 }
 
+
+
 ul, li {
   color: black;
 }
 
 
-hr {
+hr, h1 {
     display: flex;
     justify-content: center;
   
@@ -78,7 +80,7 @@ body {
 
 .Options {
   display: flex;
-  width: 190px;
+  width: 100px;
   padding: 5px;
   margin: 1px;
   justify-content: center;
