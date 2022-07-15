@@ -1,0 +1,139 @@
+html {
+
+}
+
+p {
+  color: black;
+}
+
+h1, h2, h3, h4 {
+  color: black;
+}
+
+ul, li {
+  color: black;
+}
+
+
+hr {
+    display: flex;
+    justify-content: center;
+  
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+
+.IUC{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.IUCN {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid black;
+
+}
+
+.Mini{
+  margin-left: auto;
+  display: block;
+  border: px solid black;  
+}
+
+
+#Index {
+    display:flex;
+    justify-content: center;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  
+}
+
+
+.Border{
+  margin: 2px;
+}
+
+
+#Navigation {
+  display: flex;
+  column-gap: 250px;
+  justify-content: center
+}
+
+
+.Options {
+  display: flex;
+  width: 190px;
+  padding: 5px;
+  margin: 1px;
+  justify-content: center;
+  color: #7c0b0b;
+}
+
+
+
+
+
+
+
+
+
+article{
+  flex: 2;
+  overflow-y: auto;
+  width: 6000px;
+  margin: 0 auto;
+  background-color
+  padding: 20px 20px 20px;
+  border: 5px solid black;
+  
+}
+
+h1, h2, h3, h4 {
+  color: #7c0b0b;
+     text-shadow: 1px  1px black
+}
+
+
+
+
+
+
+
+.A{
+  flex: ;
+  overflow-y;
+  width: px;
+  margin: px;
+  background-color:   #ffffff  ;
+  border: px solid black;  
+  background-image: url('data:image/svg+xml,%3Csvg width="12" height="24" viewBox="0 0 12 24" xmlns="http://www.w3.org/2000/svg"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M2 0h2v12H2V0zm1 20c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM9 8c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zm-1 4h2v12H8V12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+  
+}
+
+
+aside {
+  flex: 0.5;
+  overflow-y: auto;
+  width: 6000px;
+  margin: 0 auto;
+  background-color: #b40a0a;
+  padding: 20px 20px 20px;
+  border: 5px solid black;
+
+}
