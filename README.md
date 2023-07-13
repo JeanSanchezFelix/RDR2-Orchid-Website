@@ -52,4 +52,8 @@ The "References" tab contains a list of the sources I used to gather information
 
 ## Share Your Thoughts
 
+Email: jeanpiere.sanchez@upr.edu
+
+
+
 Thank you for visiting the Orchids of Red Dead Redemption 2 website. Enjoy exploring the enchanting world of orchids!
